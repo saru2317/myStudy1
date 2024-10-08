@@ -1,2 +1,15 @@
 Now I creat the new txt file "study2.txt" in the vs code
 and will update in the "GitHub"
+
+the step is 
+    git add study2.txt or git add .
+            Next
+    git commit -m "The file was Updated"
+            Next
+    got push origin main
+the Repository is updated
+
+Next one to create the new folder in the my local machine and to update in the GitHub
+I have created the myStudy2 folder in the local machine
+
+Now I will go back to main to using the code in the Terminal cd ..
