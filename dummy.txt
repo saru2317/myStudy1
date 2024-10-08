@@ -1,1 +1,0 @@
-Next to create the dummy txt file for delete purpose will be delete in the vs code
